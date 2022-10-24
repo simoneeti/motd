@@ -8,7 +8,7 @@ chmod +x motd.py && sudo cp motd.py /bin/motd
 ```
 después te vas a /home y 
 ```
-echo "motd" >> .bashrc
+echo "motd" >> .bashrc && source .bashrc
 ```
 ## Anotaciones
 No borrar ni cambiarle el nombre a mensajes_inicio.json, me da paja hacer un error handler.
