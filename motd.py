@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-programita de mierda que armé para romper la pija.
+programita de mierda que armé para molestar.
 si querés cambiar algo dsp hace: chmod +x motd.py && sudo cp motd.py /bin/motd
     
 básicamente hay 3 comandos: 
